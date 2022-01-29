@@ -17,7 +17,7 @@ Basta digitar o número desejado no campo.
 ## Shu
 Why don't you just [test](https://shu-number-to-chinese.herokuapp.com/) it? https://shu-number-to-chinese.herokuapp.com/
 
-This tool was developed to help chinese students to read chinese numbers.
+This tool was developed to help chinese language students to read chinese numbers.
 
 Shu was heavily inspired by [Kazu](http://sebpearce.com/kazu/).
 
