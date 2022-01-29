@@ -12,8 +12,5 @@ install = "*"
 num2words = {git = "https://github.com/Daniel-EST/num2words"}
 gunicorn = "*"
 
-[dev-packages]
-pylint = "*"
-
 [requires]
 python_version = "3.9"
