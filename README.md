@@ -21,5 +21,5 @@ This tool was developed to help chinese students to read chinese numbers.
 
 Shu was heavily inspired by [Kazu](http://sebpearce.com/kazu/).
 
-# Uso
+### Usage
 Just write the desired number at the open field.
