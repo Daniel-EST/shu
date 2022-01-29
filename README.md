@@ -7,7 +7,7 @@ Porque não começar já [testando](https://shu-number-to-chinese.herokuapp.com/
 
 Essa ferramenta foi pensanda para ajudar estudantes de chinês a ler números.
 
-Shu foi fortemente inspirado por (Kazu)[http://sebpearce.com/kazu/].
+Shu foi fortemente inspirado por [Kazu](http://sebpearce.com/kazu/).
 
 ### Uso
 Basta digitar o número desejado no campo.
