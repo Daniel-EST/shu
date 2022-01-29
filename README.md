@@ -10,7 +10,7 @@ Essa ferramenta foi pensanda para ajudar estudantes de chinês a ler números.
 Shu foi fortemente inspirado por (Kazu)[http://sebpearce.com/kazu/].
 
 ### Uso
-Basta digitar o número desejado no campo
+Basta digitar o número desejado no campo.
 
 # 🇺🇸 EN
 
@@ -22,4 +22,4 @@ This tool was developed to help chinese students to read chinese numbers.
 Shu was heavily inspired by [Kazu](http://sebpearce.com/kazu/).
 
 # Uso
-Just write the disered number at the open field
+Just write the desired number at the open field.
