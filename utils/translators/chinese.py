@@ -90,7 +90,7 @@ def chinese2pinyin(cn):
         '正负点零一二三四五六七八九十百千两万亿兆',
         ['zhèng', 'fù', 'diǎn', 'líng', 'yī', 'èr', 
          'sān', 'sì', 'wǔ', 'liǔ', 'qī', 'bā', 'jiǔ', 
-         'shì', 'bǎi', 'qiàn','liàn', 'wàn', 'yì', 
+         'shí', 'bǎi', 'qiàn','liàn', 'wàn', 'yì', 
          'zhào']))
     
     return ' '.join([to_pinyin[hanzi] for hanzi in cn])
