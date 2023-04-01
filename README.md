@@ -1,25 +1,15 @@
 # 🇧🇷 PT-BR
 
 ## Shu
+![](docs/screenshot.png)
 
-Porque não começar já [testando](https://shu-number-to-chinese.herokuapp.com/)? https://shu-number-to-chinese.herokuapp.com/
+Shu é uma ferramenta pensada para ajudar estudantes de chinês a ler números, fortemente inspirado por [Kazu](http://sebpearce.com/kazu/).
 
-
-Essa ferramenta foi pensada para ajudar estudantes de chinês a ler números.
-
-Shu foi fortemente inspirado por [Kazu](http://sebpearce.com/kazu/).
-
-### Uso
-Basta digitar o número desejado no campo.
+~~Porque não começar já [testando](https://shu-number-to-chinese.herokuapp.com/)? https://shu-number-to-chinese.herokuapp.com/~~ (Heroku já não é mais grátis)
 
 # 🇺🇸 EN
 
 ## Shu
-Why don't you just [test](https://shu-number-to-chinese.herokuapp.com/) it? https://shu-number-to-chinese.herokuapp.com/
+This tool was developed to help chinese language students to read chinese numbers, heavily inspired by [Kazu](http://sebpearce.com/kazu/).
 
-This tool was developed to help chinese language students to read chinese numbers.
-
-Shu was heavily inspired by [Kazu](http://sebpearce.com/kazu/).
-
-### Usage
-Just write the desired number at the open field.
+~~Why don't you just [test](https://shu-number-to-chinese.herokuapp.com/) it? https://shu-number-to-chinese.herokuapp.com/~~ (Heroku is no longer free)
