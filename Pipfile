@@ -9,7 +9,7 @@ requests = "*"
 numpy = "*"
 pipenv = "*"
 install = "*"
-num2words = {git = "https://github.com/Daniel-EST/num2words"}
+num2words = "*"
 gunicorn = "*"
 
 [requires]
